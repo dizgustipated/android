@@ -206,7 +206,6 @@
   <project path="packages/apps/DeskClock" name="CyanogenMod/android_packages_apps_DeskClock" />
   <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" />
   <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" />
-  <project path="packages/apps/EVToolbox" name="android_packages_apps_EVToolbox" remote="github" revision="ics" />
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
   <project path="packages/apps/Filemanager" name="teamhacksung/android_packages_apps_Filemanager" />
   <project path="packages/apps/Gallery" name="CyanogenMod/android_packages_apps_Gallery" />
