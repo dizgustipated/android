@@ -251,7 +251,7 @@
   <project path="packages/wallpapers/PhaseBeam" name="platform/packages/wallpapers/PhaseBeam" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
   <project path="prebuilt" name="CyanogenMod/android_prebuilt" remote="github-https" />
   <project path="vendor/cm" name="dizgustipated/android_vendor_cm" />
-  <project path="vendor/samsung" name="dizgustipated/proprietary_vendor_cm" />
+  <project path="vendor/samsung" name="dizgustipated/proprietary_vendor_cm" revision="master" />
   <project path="sdk" name="CyanogenMod/android_sdk" />
   <project path="system/bluetooth" name="CyanogenMod/android_system_bluetooth" />
   <project path="system/core" name="CyanogenMod/android_system_core" />
@@ -261,5 +261,5 @@
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
 
-  <project path="android" name="dizgustipated/android" />
+  <project path="android" name="dizgustipated/android" revision="master" />
 </manifest>
